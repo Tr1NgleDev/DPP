@@ -119,6 +119,13 @@ public:
 	utility::iconhash avatar;
 
 	/**
+	 * @brief im going to kill myself
+	 * 
+	 * @note yippeeeeeeeeeeee
+	 */
+	std::string avatar_url;
+
+	/**
 	 * @brief The secure token of the webhook (returned for Incoming Webhooks).
 	 *
 	 * @note This field is optional.
